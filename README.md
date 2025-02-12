@@ -13,3 +13,4 @@ ainsi que l'accès administrateur pour effectuer des modifications sur le stock 
    - À l'exécution de l'application, une fenêtre principale s'ouvre, affichant deux boutons :
      - **Button Admin** : pour accéder à l'interface d'administration.
      - **Button Client** : pour accéder à l'interface client.
+![image alt]([image_url](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/dd4d0a342e5b6d156d9498dd0fc75b4d54fd08fe/Main_Window.png))
