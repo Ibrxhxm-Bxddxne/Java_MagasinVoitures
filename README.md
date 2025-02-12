@@ -29,7 +29,7 @@ ainsi que l'accès administrateur pour effectuer des modifications sur le stock 
    
 3. **Connexion en tant que Client** :
    - Si l'utilisateur clique sur **Button Client**, il peut soit s'inscrire, soit se connecter si déjà inscrit.
-![image alt]((https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/ClientPage.png?raw=true))
+![image alt](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/ClientPage.png?raw=true)
 
 - **Inscription** : Si l'utilisateur n'est pas encore inscrit, il doit remplir un formulaire avec ses informations personnelles :
      - `nom`, `prenom`, `email`, et `telephone`.
@@ -66,7 +66,6 @@ ainsi que l'accès administrateur pour effectuer des modifications sur le stock 
    - `username` : nom d'utilisateur de l'admin.
    - `password` : mot de passe de l'admin.
 ![image alt](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/table_Admin.png?raw=true)
-
 ### Technologies utilisées :
 - **Java (JDK)** : pour développer l'application.
 - **JDBC** : pour la gestion de la base de données SQL et l'exécution des requêtes.
