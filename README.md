@@ -18,11 +18,11 @@ ainsi que l'accès administrateur pour effectuer des modifications sur le stock 
 2. **Connexion en tant qu'Admin** :
    - Si l'utilisateur clique sur **Button Admin**, il doit entrer un nom d'utilisateur et un mot de passe.
    - Le programme vérifie ces informations dans la table `admin` de la base de données (id_admin, username, password).
-![image alt](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Main_Window.png?raw=true](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Login_Page.png?raw=true))
+![image alt](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Login_Page.png?raw=true)
 
 - Si les informations sont valides, l'admin accède à un menu où il peut :
      - **Ajouter** une voiture à la base de données (via la table `voiture`).
-![image alt]([https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Main_Window.png?raw=true](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Login_Page.png?raw=true)](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Add_Car.png?raw=true))
+![image alt](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/Add_Car.png?raw=true)
 
 - **Supprimer** une voiture de la base de données.
    - La table `voiture` contient des informations comme `id_voiture`, `marque`, `modele`, `annee`, et `prix`.
@@ -60,8 +60,7 @@ ainsi que l'accès administrateur pour effectuer des modifications sur le stock 
    - `id_voiture` (Clé étrangère) : identifiant de la voiture commandée.
    - `id_client` (Clé étrangère) : identifiant du client ayant passé la commande.
    - `date_commande` : date de la commande.
-![image alt](
-https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/table_Commande.png?raw=true)
+![image alt](https://github.com/Ibrxhxm-Bxddxne/Java_MagasinVoitures/blob/main/table_Commande.png?raw=true)
 4. **Table admin** :
    - `id_admin` (Clé primaire) : identifiant unique de l'admin.
    - `username` : nom d'utilisateur de l'admin.
